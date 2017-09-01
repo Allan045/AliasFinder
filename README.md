@@ -16,7 +16,11 @@ Essa foi implementada partindo de princípios mais conservadores, considerando A
 
 # Exemplos de Uso
 Para executar é necessário informar três argumentos
+
 User      Password     Project_Name_On_GitHub
 
 Exemplos práticos testados durante o desenvolvimento
+
 User2     Password2    hubot
+
+.
