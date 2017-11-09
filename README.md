@@ -1,6 +1,9 @@
 # AliasFinder
 Projeto desenvolvido para a Disciplina de Manutenção e Evolução de Software
 
+# Status - Travis CI
+https://travis-ci.org/Allan045/AliasFinder.svg?branch=master
+
 
 # Funcionalidades
 Este código é responsável por verificar se existem Alias em projetos do Github seguindo os passos abaixo:
