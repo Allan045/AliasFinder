@@ -2,7 +2,7 @@
 Projeto desenvolvido para a Disciplina de Manutenção e Evolução de Software
 
 # Status - Travis CI
-https://travis-ci.org/Allan045/AliasFinder.svg?branch=master
+[![Build Status](https://travis-ci.org/Allan045/AliasFinder.svg?branch=Allan045-patch-1)](https://travis-ci.org/Allan045/AliasFinder)
 
 
 # Funcionalidades
